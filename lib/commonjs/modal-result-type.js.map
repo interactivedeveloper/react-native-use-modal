@@ -1,0 +1,1 @@
+{"version":3,"sources":["modal-result-type.ts"],"names":["ModalResultType"],"mappings":";;;;;;IAAYA,e;;;WAAAA,e;AAAAA,EAAAA,e,CAAAA,e;AAAAA,EAAAA,e,CAAAA,e;GAAAA,e,+BAAAA,e","sourcesContent":["export enum ModalResultType {\n  CONFIRM,\n  CANCEL,\n}\n"]}

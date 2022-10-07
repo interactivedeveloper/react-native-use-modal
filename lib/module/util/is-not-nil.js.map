@@ -1,0 +1,1 @@
+{"version":3,"sources":["is-not-nil.ts"],"names":["isNotNil","value","undefined"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAOC,KAAJ,IACtBA,KAAK,KAAK,IAAV,IAAkBA,KAAK,KAAKC,SADvB","sourcesContent":["export const isNotNil = <T>(value: T | undefined | null): value is T =>\n  value !== null && value !== undefined;\n"]}
